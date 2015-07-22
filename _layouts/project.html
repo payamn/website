@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date }}
+      {% if page.best == true %}
+        <i class="flaticon-award52"></i>
+      {% endif %}
+  </span>
+
+  <div class="project_content">
+      {{ content }}
+  </div>
+
+  <ul>
+      {% if page.code != null %}
+        <li><a href="{{ site.url }}/files/projects_files/{{ page.code}}"> <i class="flaticon-code27"></i> Source Code </a></li>
+      {% endif %}
+
+      {% if page.repo != null %}
+        <li><a href="https://github.com/{{ site.author.github }}/{{ page.repo }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
+      {% endif %}
+
+      {% if page.doc != null %}
+        <li><a href="{{ site.url }}/files/projects_files/{{ page.doc}}"> <i class="flaticon-documents7"></i> Documentation </a></li>
+      {% endif %}
+
+      {% if page.demo != null %}
+        <li><a href="{{ site.url }}/files/projects_files/{{ page.demo}}"> <i class="flaticon-dataanalytics1"></i> Presentation </a></li>
+      {% endif %}
+  </ul>
+
+</div>

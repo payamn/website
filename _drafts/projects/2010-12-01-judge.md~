@@ -1,0 +1,10 @@
+---
+layout:     project
+title:      Online Judge System with Code Similarity
+code:
+doc:
+demo:       PRSNT_Online Judge.pdf
+best:       true
+---
+
+This project is written in Java and it consists of two parts, Client and Server applications. The goal was to create a system for online exams of C Programming course, so that the students can see the questions and submit their answers over the network and they will be graded by the system according to a model answer given by the teacher. It’s just for students to self-check their answers and the real grading will be done by the instructor himself later after the exam. It uses the code similarity algorithms used in Plagiarism Detecting Applications to calculate how much the submitted code is similar to the one that the instructor submitted. The Judge system uses two other ways of grading: Output checking and assembly code checking. The project was marked as the best project of the “Advanced Programming” class.
