@@ -4,7 +4,7 @@ title: Contact
 icon: flaticon-speechbubble20
 ---
 
-The best way to contact me is by [email](pnikdel@gmail.com)
+The best way to contact me is by [*email*](mailto:pnikdel@gmail.com)
 but there are a number of other ways:
 
 * <i class="flaticon-twitter"></i> [Twitter {@{{ site.author.twitter }}}](http://twitter.com/{{ site.author.twitter }})
