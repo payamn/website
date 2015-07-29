@@ -1,8 +1,7 @@
-# [*My Personal Website*] ( http://pnikdel.tk)
+# My [*Personal Website*] (http://payam.nikdel.tk) 
 
 This is the repo of my personal website. It's based on the Lanyon theme for Jekyll and is hosted on GitHub.
 
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
