@@ -14,4 +14,4 @@ I received my B.Sc. in Software Engineering at the Department of CSE and IT of [
 
 You can access my résumé from the sidebar.
 
-Thanks for stopping by!!
+Thanks for stopping by!
