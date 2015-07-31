@@ -1,6 +1,7 @@
 ---
 layout:     project
-title:     Control mouse with eyes (Spring 2015)
+title:     Control mouse with eyes
+date:       Spring 2015
 code:  
 doc:        
 demo:

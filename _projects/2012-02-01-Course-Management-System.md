@@ -1,6 +1,7 @@
 ---
 layout:     project
-title:      Course Management System (Spring 2012)
+title:      Course Management System 
+date:       Spring 2012
 code:  
 doc:        
 demo:

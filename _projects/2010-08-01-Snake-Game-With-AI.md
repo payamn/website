@@ -1,6 +1,7 @@
 ---
 layout:     project
-title:     Snake Game With AI (Fall 2010)
+title:     Snake Game With AI 
+date:      Fall 2010
 code:  
 doc:        
 demo:

@@ -1,6 +1,7 @@
 ---
 layout:     project
-title:     Small Game Console (Fall 2012)
+title:     Small Game Console 
+date:       Fall 2012
 code:  
 doc:        
 demo:

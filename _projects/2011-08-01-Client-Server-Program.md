@@ -1,6 +1,7 @@
 ---
 layout:     project
-title:     Client Server Program (Fall 2011)
+title:     Client Server Program 
+date:      Fall 2011
 code:  
 doc:        
 demo:

@@ -1,6 +1,7 @@
 ---
 layout:     project
-title:     GPU Efficient Image Processing (Fall 2013)
+title:     GPU Efficient Image Processing 
+date:       Fall 2013
 code:  
 doc:        
 demo:

@@ -1,6 +1,7 @@
 ---
 layout:     project
-title:     Book Shopping Website (Spring 2013)
+title:     Book Shopping Website 
+date:       Spring 2013
 code:  
 doc:        
 demo:
