@@ -1,4 +1,4 @@
-# My [*Personal Website*] (http://payam.nikdel.tk) 
+# My [*Personal Website*] (http://nikdel.tk) 
 
 This is the repo of my personal website. It's based on the Lanyon theme for Jekyll and is hosted on GitHub.
 
