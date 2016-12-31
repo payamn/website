@@ -36,5 +36,4 @@ version:             1.0.0
 
 collections:
   projects:
-    exclude: [vendor]
     output: true
