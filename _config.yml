@@ -1,4 +1,5 @@
 # Dependencies
+exclude: [vendor]
 markdown:            redcarpet
 highlighter:         pygments
 
