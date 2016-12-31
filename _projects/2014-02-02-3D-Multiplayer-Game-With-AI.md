@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:      3D Multiplayer Game With AI 
-date:       Spring 2014
+date:       2015-04-28
 code:  
 doc:        
 demo:

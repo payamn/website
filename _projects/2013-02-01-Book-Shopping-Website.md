@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     Book Shopping Website 
-date:       Spring 2013
+date:       2015-04-28
 code:  
 doc:        
 demo:

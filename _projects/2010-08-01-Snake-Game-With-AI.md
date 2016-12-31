@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     Snake Game With AI 
-date:      Fall 2010
+date:      2015-04-28
 code:  
 doc:        
 demo:

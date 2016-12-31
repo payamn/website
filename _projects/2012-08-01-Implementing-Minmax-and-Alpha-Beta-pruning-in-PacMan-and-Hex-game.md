@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     Implementing Minmax and Alpha-Beta pruning in PacMan and Hex game 
-date:       Fall 2012
+date:       2015-04-28
 code:  
 doc:        
 demo:
