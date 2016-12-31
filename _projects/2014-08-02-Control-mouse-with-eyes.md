@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     Control mouse with eyes
-date:       Fall 2014
+date:       2015-04-28
 code:  
 doc:        
 demo:
