@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     Pure P2P File Sharing Application Written in Python 
-date:       2015-04-28
+date:       2014-10-01
 code:  
 doc:        
 demo:

@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     GPU Efficient Image Processing 
-date:       2015-04-28
+date:       2013-08-01
 code:  
 doc:        
 demo:

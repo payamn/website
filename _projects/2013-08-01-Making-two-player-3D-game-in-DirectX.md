@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     Making two player 3D game in DirectX 
-date:       2015-04-28
+date:       2013-11-01
 code:  
 doc:        
 demo:

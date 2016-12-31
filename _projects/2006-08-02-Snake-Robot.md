@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     Snake Robot
-date:       2015-04-28
+date:       2006-08-02
 code:  
 doc:        
 demo:

@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:     Person ReIdentification using Point Cloud
-date:       2015-04-28
+date:       2016-11-28
 code:  
 doc:        
 demo:
