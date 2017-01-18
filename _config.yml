@@ -6,11 +6,12 @@ highlighter:         pygments
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
 title:               Payam Nikdel
-tagline:             'A Software Engineer Who Loves His Job.'
+tagline:             'Research Assistant at Simon Fraser University.'
 #description:         There are only 10 types of people in the world. Those who undertand binary and those who don't, and those who count from zero.
 description:
 url:                 http://payamn.github.io
