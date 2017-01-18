@@ -6,7 +6,7 @@ code:
 doc:        
 demo:
 best:       true
-image_small: 2014-02-02-3D-Multiplayer-Game-With-AI.png
+image_small: /files/projects_files/2014-02-02-3D-Multiplayer-Game-With-AI.png
 
 ---
 
