@@ -3,9 +3,22 @@ layout: default
 ---
 
 <div class="post">
+
   <h1 class="post-title">{{ page.title }}</h1>
+
   <span class="post-date">{{ page.date }}
-      {% if page.best == true %}
+{% if project.image_small %}
+
+	 <table width="100%" height="100%" align="center" valign="center">
+   <tr><td>
+      <img src="{{ project.image_small }}">
+   </td></tr>
+   </table>
+      
+
+  
+{% endif %}
+  {% if page.best == true %}
         <i class="flaticon-award52"></i>
       {% endif %}
   </span>
