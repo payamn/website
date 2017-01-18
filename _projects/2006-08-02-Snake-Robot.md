@@ -6,7 +6,7 @@ code:
 doc:        
 demo:
 best:       true
-image_small: /files/projects_files/2016-11-02-Person-ReIdentification-using-Point-Cloud.png
+image_small: /files/projects_files/2006-08-02-Snake-Robot.png
 
 --- 
 

@@ -6,7 +6,7 @@ code:
 doc:        
 demo:
 best:       true
-image_small: /files/projects_files/2016-11-02-Person-ReIdentification-using-Point-Cloud.png
+image_small: /files/projects_files/2012-08-01-Implementing-Minmax-and-Alpha-Beta-pruning-in-PacMan-and-Hex-game.png
 
 ---
 These 2 projects help me to understand Minmax and Alpha-Beta pruning. 

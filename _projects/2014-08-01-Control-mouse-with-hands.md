@@ -6,7 +6,7 @@ code:
 doc:        
 demo:
 best:       true
-image_small: /files/projects_files/2016-11-02-Person-ReIdentification-using-Point-Cloud.png
+image_small: /files/projects_files/2014-08-01-Control-mouse-with-hands.png
 
 ---
 The hand tracking is based on color recognition.  For achieving this I do: <br />
