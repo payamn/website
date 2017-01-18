@@ -6,6 +6,8 @@ code:
 doc:        
 demo:
 best:       true
+image_small: /files/projects_files/2016-11-02-Person-ReIdentification-using-Point-Cloud.png
+
 ---
 The hand tracking is based on color recognition.  For achieving this I do: <br />
 1) Sampling color from the hand. <br />

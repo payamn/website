@@ -6,6 +6,8 @@ code:
 doc:        
 demo:
 best:       true
+image_small: /files/projects_files/2016-11-02-Person-ReIdentification-using-Point-Cloud.png
+
 ---
 we describe and compare several deep-learning approaches for identifying
 people using 3D point cloud data. We also describe various enhancements
