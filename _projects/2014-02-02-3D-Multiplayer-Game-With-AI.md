@@ -1,12 +1,13 @@
 ---
 layout:     project
-title:      3D Multiplayer Game With AI 
+title:      3D Multiplayer Game With AI
 date:       2014-04-28
-code:  
-doc:        
+code:
+doc:
 demo:
 best:       true
 image_small: /files/projects_files/2014-02-02-3D-Multiplayer-Game-With-AI.png
+short: Designed a multiplayer first person shooter game in Unity3d with the capibility of 100 concurrent players.
 
 ---
 

@@ -1,12 +1,13 @@
 ---
 layout:     project
-title:     Implementing Minmax and Alpha-Beta pruning in PacMan and Hex game 
+title:     Implementing Minmax and Alpha-Beta pruning in PacMan and Hex game
 date:       2012-08-01
-code:  
-doc:        
+code:
+doc:
 demo:
 best:       true
 image_small: /files/projects_files/2012-08-01-Implementing-Minmax-and-Alpha-Beta-pruning-in-PacMan-and-Hex-game.png
+short: Used Minmax algorithm to solve the PacMan and Hex game.
 
 ---
-These 2 projects help me to understand Minmax and Alpha-Beta pruning. 
+Using Minmax and Alpha-Beta pruning, designed a solution for PacMan and Hex game.

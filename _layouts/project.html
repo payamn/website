@@ -19,7 +19,7 @@ layout: default
 
   <ul>
       {% if page.code != null %}
-        <li><a href="{{ site.url }}/files/projects_files/{{ page.code}}"> <i class="flaticon-code27"></i> Source Code </a></li>
+        <li><a href="{{ page.code }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
       {% endif %}
 
       {% if page.repo != null %}
@@ -27,11 +27,11 @@ layout: default
       {% endif %}
 
       {% if page.doc != null %}
-        <li><a href="{{ site.url }}/files/projects_files/{{ page.doc}}"> <i class="flaticon-documents7"></i> Documentation </a></li>
+      <li><a href="{{page.doc}}"> <i class="flaticon-documents7"></i> Paper </a></li>
       {% endif %}
 
       {% if page.demo != null %}
-        <li><a href="{{ site.url }}/files/projects_files/{{ page.demo}}"> <i class="flaticon-dataanalytics1"></i> Presentation </a></li>
+        {% include youtubePlayer.html id=page.demo %}
       {% endif %}
   </ul>
 
@@ -43,15 +43,15 @@ layout: default
       <img src="{{ page.image_small }}">
    </td></tr>
    </table>
-      
 
-  
+
+
 {% endif %}
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-var sc_project=10688339; 
-var sc_invisible=0; 
-var sc_security="a602e408"; 
+var sc_project=10688339;
+var sc_invisible=0;
+var sc_security="a602e408";
 var scJsHost = (("https:" == document.location.protocol) ?
 "https://secure." : "http://www.");
 document.write("<sc"+"ript type='text/javascript' src='" +
@@ -73,4 +73,4 @@ alt="shopify traffic stats"></a></div></noscript>
   ga('create', 'UA-67499410-1', 'auto');
   ga('send', 'pageview');
 
-</script>	
+</script>

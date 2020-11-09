@@ -6,11 +6,11 @@ icon: flaticon-user7
 
 ## Hello World!
 
-My name is Payam, I am a research assistant at the [*Simon Fraser*](https://www.sfu.ca/) university. I was born in [*Hamedan*](https://en.wikipedia.org/wiki/hamedan),
-hamedan is believed to be among the oldest Iranian cities and one of the oldest in the world.
-I received my B.Sc. in Software Engineering at the Department of CSE and IT of [*Shiraz University*](http://en.wikipedia.org/wiki/Shiraz_University), I am currently studing computing science, Robotic-AI, at the Simon Fraser university. 
+I am a research assistant at the [*Simon Fraser*](https://www.sfu.ca/) university. I am also working as a research scientist at Advanced Intelligent Systems Inc.  I design and deploy state of art robotics and computer vision algorithms for real-world robotics problems.
+My research interests are:
+<br />Deep Reinforcement Learning, Robotics, Computer Vision and AI
 
 
-You can access my résumé from the sidebar.
+You can access to my résumé and projects from the sidebar.
 
 Thanks for stopping by!
