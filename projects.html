@@ -17,20 +17,6 @@ icon: flaticon-briefcase69
         {{ project.title }}
       </a>
     </h3>
-    <ul>
-      {% if project.code != null %}
-        <li><a href="{{ project.code }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
-      {% endif %}
-
-      {% if project.repo != null %}
-        <li><a href="https://github.com/{{ site.author.github }}/{{ project.repo }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
-      {% endif %}
-
-      {% if project.doc != null %}
-      <li><a href="{{project.doc}}"> <i class="flaticon-documents7"></i> Paper </a></li>
-      {% endif %}
-
-    </ul>
     <div class="row">
     <div class="column">
       {% if project.demo != null %}
@@ -46,6 +32,20 @@ icon: flaticon-briefcase69
     </div>
     <div class="project_content_s">
       {{project.short}}
+    <ul>
+      {% if project.code != null %}
+        <li><a href="{{ project.code }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
+      {% endif %}
+
+      {% if project.repo != null %}
+        <li><a href="https://github.com/{{ site.author.github }}/{{ project.repo }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
+      {% endif %}
+
+      {% if project.doc != null %}
+      <li><a href="{{project.doc}}"> <i class="flaticon-documents7"></i> Paper </a></li>
+      {% endif %}
+
+    </ul>
     </div>
     </div>
     <div class="box">
