@@ -1,6 +1,6 @@
 ---
 layout:     project
-title:     Describe The Path Using Attention Model
+title:     Lip Reading Using Dual Attention Model
 date:       2018-10-01
 code:
 doc:
