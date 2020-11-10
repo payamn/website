@@ -17,6 +17,7 @@ tagline:             'Research Assistant at Simon Fraser University.'
 description:
 url:                 http://payamn.github.io
 baseurl:             /
+root: /
 paginate:            5
 
 # About/contact
