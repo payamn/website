@@ -12,7 +12,7 @@
       <img alt="Payam's picture" src="https://avatars2.githubusercontent.com/u/4437564?v=3&s=460"></img>
   </div>
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}"><span class="flaticon-house180"></span> Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.root }}"><span class="flaticon-house180"></span> Home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -37,7 +37,7 @@
 
   <div class="sidebar-item">
       <p>
-          Hosted using GitHub Pages, Jekyll, Lanyon and Poole.
+          Hosted using GitHub Pages.
       </p>
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
