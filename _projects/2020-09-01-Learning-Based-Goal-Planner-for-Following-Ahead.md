@@ -3,7 +3,7 @@ layout:     project
 title:     "LBGP: Learning Based Goal Planner for Following Ahead"
 date:       2020-09-01
 code:
-doc:
+doc:  https://arxiv.org/pdf/2011.03125.pdf
 demo: XSOUdPFPMmA
 best:       true
 image_small: /files/projects_files/2020-09-01-Learning-Based-Goal-Planner-for-Following-Ahead.png
