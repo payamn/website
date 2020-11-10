@@ -7,7 +7,7 @@ highlighter:         Rouge
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           relative
 
 
 # Setup
@@ -16,8 +16,8 @@ tagline:             'Research Assistant at Simon Fraser University.'
 #description:         There are only 10 types of people in the world. Those who undertand binary and those who don't, and those who count from zero.
 description:
 url:                 http://payamn.github.io
-baseurl:             /
 root: /
+base_url: /
 paginate:            5
 
 # About/contact
