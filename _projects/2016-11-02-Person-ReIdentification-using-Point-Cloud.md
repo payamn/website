@@ -2,7 +2,7 @@
 layout:     project
 title:     Person ReIdentification using Point Cloud
 date:       2016-11-28
-code: people_reidentification
+repo: people_reidentification
 doc:
 demo: pN6oPjqdJLg
 best:       true
