@@ -11,3 +11,30 @@
 .project_content {
     text-align: justify;
 }
+.project_content_s {
+    text-align: justify;
+    flex: 50%;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 19px;
+  padding: 15px;
+
+}
+.box {
+  margin-bottom: 60px;
+}
+.project_content {
+    text-align: justify;
+}
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 46%;
+  padding: 0px;
+}

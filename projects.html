@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Projects
 icon: flaticon-briefcase69
 ---
@@ -8,32 +8,50 @@ icon: flaticon-briefcase69
 
 <!-- <p> For more information about each project, click on its title. </p> -->
 
-<iv class="posts">
+  <h3>For more information, click on the project title:</h3>
   {% for project in site.projects reversed %}
   <div>
 
-    <h2 class="post-title">
+    <h3 class="post-title">
       <a href="{{ project.url }}">
         {{ project.title }}
       </a>
-    {% if project.demo != null %}
-    {% include youtubePlayer.html id=project.demo %}
-    {% elsif project.image_small %}
+    </h3>
+    <ul>
+      {% if project.code != null %}
+        <li><a href="{{ project.code }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
+      {% endif %}
 
-	 <table width="100%" height="100%" align="center" valign="center">
-   <tr><td>
-      <img src="{{ project.image_small }}">
-   </td></tr>
-   </table>
+      {% if project.repo != null %}
+        <li><a href="https://github.com/{{ site.author.github }}/{{ project.repo }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
+      {% endif %}
 
+      {% if project.doc != null %}
+      <li><a href="{{project.doc}}"> <i class="flaticon-documents7"></i> Paper </a></li>
+      {% endif %}
 
+    </ul>
+    <div class="row">
+    <div class="column">
+      {% if project.demo != null %}
+      {% include youtubePlayer.html id=project.demo %}
+      {% elsif project.image_small %}
 
-  {% endif %}
-    <div class="project_content">
+	     <table width="100%" height="100%" align="center" valign="center">
+       <tr><td>
+          <img src="{{ project.image_small }}">
+       </td></tr>
+       </table>
+      {% endif %}
+    </div>
+    <div class="project_content_s">
       {{project.short}}
     </div>
+    </div>
+    <div class="box">
+    </div>
 
-	</h2>
+
 
 
 <!--    <p> {{ project.excerpt}} </p>-->
