@@ -11,6 +11,6 @@ My research interests are:
 <br />Deep Reinforcement Learning, Robotics, Computer Vision and AI
 
 
-You can access to my [*résumé*](http://payamn.github.io/Resume.pdf) and [*projects*](http://payamn.github.io/projects) from the sidebar.
+You can access to my [*résumé*](http://payamn.github.io/files/Resume.pdf) and [*projects*](http://payamn.github.io/projects) from the sidebar.
 
 Thanks for stopping by!
