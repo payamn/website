@@ -2,7 +2,7 @@
 layout:     project
 title:     "LBGP: Learning Based Goal Planner for Following Ahead"
 date:       2020-09-01
-code:
+code: https://github.com/payamn/follow_ahead_rl
 doc:  https://arxiv.org/pdf/2011.03125.pdf
 demo: XSOUdPFPMmA
 best:       true
